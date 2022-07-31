@@ -1,0 +1,3 @@
+/home/ale/Documentos/SIPC/CMakeFiles/rebuild_cache.dir
+/home/ale/Documentos/SIPC/CMakeFiles/edit_cache.dir
+/home/ale/Documentos/SIPC/CMakeFiles/webcam.dir
